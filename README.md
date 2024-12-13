@@ -12,3 +12,5 @@
 The `main.py` file is a gui light controller that is still a wip
 
 Need to support selecting a specific light if more than one is discovered on the network
+
+Package into an application that can be installed with no other dependencies
